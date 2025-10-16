@@ -21,7 +21,7 @@ header, footer {
 }
 
 .card {
-    background: white;
+    background: rgb(255, 255, 255);
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
     margin: 10px;
@@ -29,3 +29,11 @@ header, footer {
     width: 200px;
     text-align: center;
 }
+
+.card h2 { color: rgb(244, 192, 95);}
+
+.card{ padding:20px;}
+
+.card img { border: 3px solid  rgb(244, 192, 95);}
+
+
